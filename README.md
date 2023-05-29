@@ -22,6 +22,6 @@ Build a Responsive website in a weak to showcase the following:
 * Git
 * GitHub
 
-Name : Imran Raja
+Name : Imran Raza
 
 
